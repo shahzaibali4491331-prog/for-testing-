@@ -6,6 +6,9 @@ const Shahzaib = () => {
       <button>Shahzaib </button>
       Search:<input type="text" />
       <h1>Pakistan</h1>
+      <h2> Pakistan vs India</h2>
+      <h3>my name is Shahzaib and my father name</h3>
+      <div>naro</div>
     </div>
   )
 }
